@@ -1,2 +1,2 @@
-INPUT_FILE = 'bookmarks.json'
-OUTPUT_FILE = 'bookmarks.html'
+INPUT_FILE = 'bookmarks.sample.json'
+OUTPUT_FILE = 'bookmarks.sample.html'

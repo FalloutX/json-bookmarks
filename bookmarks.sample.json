@@ -1,0 +1,62 @@
+{
+  "groups": {
+    "0": {
+      "id": 0,
+      "title": "Home"
+    },
+    "1": {
+      "id": 3,
+      "title": "Computer Science"
+    }
+  },
+  "dials": {
+    "1": {
+      "id": 3,
+      "title": "Theory | Georgia Tech - College of Computing",
+      "url": "http://www.cc.gatech.edu/theorythread",
+      "thumbnail": "",
+      "ts_created": 1443718782,
+      "idgroup": 3
+    },
+    "8": {
+      "id": 349,
+      "title": "reddit: the front page of the internet",
+      "url": "https://www.reddit.com/",
+      "thumbnail": "",
+      "ts_created": 1461531045,
+      "idgroup": 0
+    },
+    "11": {
+      "id": 14,
+      "title": "ADUni videos now on Google Video",
+      "url": "http://adunivids.neocities.org/",
+      "thumbnail": "",
+      "ts_created": 1443719031,
+      "idgroup": 3
+    },
+    "22": {
+      "id": 62,
+      "title": "Massive Open Online Course (MOOC)",
+      "url": "https://www.facebook.com/notes/data-structures-algorithms/massive-open-online-course-mooc/355531157854305",
+      "thumbnail": "",
+      "ts_created": 1443772353,
+      "idgroup": 3
+    },
+    "30": {
+      "id": 63,
+      "title": "trello",
+      "url": "trello.com",
+      "thumbnail": "",
+      "ts_created": 1443772544,
+      "idgroup": 3
+    },
+    "32": {
+      "id": 143,
+      "title": "Evernote Web",
+      "url": "https://www.evernote.com/Home.action",
+      "thumbnail": "http://i.imgur.com/6g0ZBJs.jpg",
+      "ts_created": 1444402028,
+      "idgroup": 0
+    }
+  }
+}
